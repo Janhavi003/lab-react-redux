@@ -24,7 +24,7 @@ a:hover {
 }
 
 body {
-  padding-left:40vw;
+  padding-left:45vw;
   display: flex;
   place-items: center;
   min-width: 320px;

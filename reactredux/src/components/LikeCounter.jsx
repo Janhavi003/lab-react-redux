@@ -16,7 +16,6 @@ const LikeCounter = () => {
 
   return (
     <div>
-      <h1>Like Counter</h1>
       <p>Count: {likeCount}</p>
       <button onClick={handleIncrement}>Like</button>
       <button onClick={handleDecrement}>Unlike</button>
